@@ -1,0 +1,1 @@
+Hi. I'm Alexis. I'm a Texas Tech student. 

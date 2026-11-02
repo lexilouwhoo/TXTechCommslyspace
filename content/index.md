@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Centralized resources for disabled veterans and families.
 ---
 ## The index page
 
