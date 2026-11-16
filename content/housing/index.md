@@ -1,3 +1,13 @@
 ---
-Housing: Resources specific to housing and house assistance for veterans
----
+
+ title: Housing
+
+ ---
+
+  
+
+## Related Categories
+
+  
+
+Veterans using housing resources may also need [[healthcare-wellness/index|Healthcare and Wellness]] services.
