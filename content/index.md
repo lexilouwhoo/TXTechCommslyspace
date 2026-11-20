@@ -1,5 +1,6 @@
 ---
 title: "ValuableVets: Veterans and Family Resource Hub"
+date:
 ---
 ## The index page
 
